@@ -6,6 +6,7 @@ using UnityEngine.AI;
 
 public class EnemyController : MonoBehaviour
 {
+
     private int currentLife;
     private int maxLife;
     public int enemyScorePoint;
